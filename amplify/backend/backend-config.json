@@ -1,0 +1,16 @@
+{
+  "function": {
+    "station": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "type": "cicd",
+      "lastPushTimeStamp": "2021-01-03T12:41:38.173Z"
+    }
+  }
+}
